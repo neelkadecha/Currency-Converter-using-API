@@ -108,10 +108,3 @@ button {
     color: #e0e1dd;
     background-color: #344CB7;
 }
-
-@media  screen and (max-width: 600px) {
-    #container {
-        min-height: 40vh;
-        width: 80%;
-}
-}
