@@ -17,3 +17,6 @@ A simple and responsive currency converter built using **HTML, CSS, and JavaScri
 - **HTML** – Structure  
 - **CSS** – Styling  
 - **JavaScript** – Logic & API integration  
+
+## **Live Demo** 🌍
+🔗 https://neelkadecha.github.io/Currency-Converter-using-API/
